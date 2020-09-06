@@ -3,6 +3,7 @@
 * Clone me: `git clone https://github.com/henkjanwils/metisMenu-error.git metismenu-error`
 * `cd metismenu-error`
 * `bundle`
+* `yarn install --check-files`
 * `bundle exec rails s`
 * visit `localhost:3000`
 * Right-click and "Inspect element" somewhere on page
