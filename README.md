@@ -4,6 +4,6 @@
 * Run `bundle`
 * `bundle exec rails s`
 * visit `localhost:3000`
-* click "Inspect element" somewhere on page
+* Right-click and "Inspect element" somewhere on page
 * See the error "Uncaught TypeError: $(...).metisMenu is not a function"
 * Please help by pushing the solution in a new PR
