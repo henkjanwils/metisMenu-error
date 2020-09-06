@@ -1,6 +1,6 @@
 # README
 
-* Clone me
+* Clone me: https://github.com/henkjanwils/metisMenu-error.git
 * Run `bundle`
 * `bundle exec rails s`
 * visit `localhost:3000`
